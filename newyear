@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy New Year Card</title>
+    
+</head>
+<body>
+    <div class="card">
+        <div class="card-header">
+            🎉 Happy New Year! 🎉
+        </div>
+        <div class="card-body">
+            <h2>Wishing you a year filled with love, laughter, and success!</h2>
+            <p>May this new year bring happiness and joy to you and your loved ones.</p>
+        </div>
+        <div class="fireworks">✨🎆🎇✨</div>
+        <div class="card-footer">
+            <a href="https://www.example.com">Let's Celebrate!</a>
+        </div>
+    </div>
+</body>
+</html>
